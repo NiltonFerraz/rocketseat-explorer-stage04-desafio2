@@ -1,8 +1,7 @@
-Exercício 02
-# 💻 Sobre o desafio
+# 💻 O que mais aprendi neste desafio
 
 <aside>
-💡 Principais pontos abordados nesse desafio:
+💡 Pontos abordados:
 
 - Estrutura de dados com objetos;
 - Estrutura de repetição;
@@ -11,9 +10,7 @@ Exercício 02
 
 </aside>
 
-Bora praticar e rever tudo o que foi ensinado na aula? 💜
-
-Nesse desafio você irá criar uma lista de estudantes e, cada estudante dentro dessa lista, deverá conter os seguintes dados:
+Crie uma lista de estudantes e, cada estudante dentro dessa lista, deverá conter os seguintes dados:
 
 <ul>
   <li>nome;</li>
